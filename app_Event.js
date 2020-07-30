@@ -1,4 +1,4 @@
-//Send event
+//Send events
 
 var Tx=require('ethereumjs-tx').Transaction
 const Web3=require('web3')
